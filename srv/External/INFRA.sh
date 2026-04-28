@@ -30,7 +30,7 @@ infra_menu() {
       1)
         clear
         echo -e "${CYAN}Installing KVM + Cockpit...${NC}"
-        bash <(curl -fsSL https://raw.githubusercontent.com/nobita329/The-Coding-Hub/main/srv/External/Cockpit.sh)
+        bash <(curl -fsSL https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/External/Cockpit.sh)
         echo -e "${GREEN}Access: https://SERVER_IP:9090${NC}"
         pause
         ;;
