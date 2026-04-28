@@ -25,7 +25,7 @@ sleep 2
 ###################################################
 # 🔄 UPDATE & INSTALL DEPENDENCIES
 ###################################################
-bash <(curl -fsSL https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/panel/dashv3/os.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/os.sh)
 
 ###################################################
 # 🎼 COMPOSER
