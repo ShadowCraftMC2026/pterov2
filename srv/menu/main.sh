@@ -1,8 +1,8 @@
 #!/bin/bash
- bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/main/license.sh)
+
 # ===========================================================
-# CODING HUB Terminal Control Panel
-# Mode By - Nobita
+# SHADOW CODING HUB Terminal Control Panel
+# Own By - ShadowCraftMC
 # ===========================================================
 
 # --- COLORS ---
@@ -66,7 +66,7 @@ read -p "Select → " p
 
 case $p in
  1) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/Uninstall/unFEATHERPANEL.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/Uninstall/unPterodactyl.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/PteroShadowMC/refs/heads/main/main-menu.sh) ;;
  3) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/panel/Jexactyl.sh) ;;
  4) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/Uninstall/unJexactyl.sh) ;;
  5) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/Uninstall/undash-3.sh) ;;
