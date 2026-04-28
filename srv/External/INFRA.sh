@@ -50,13 +50,13 @@ infra_menu() {
         clear
         echo -e "${CYAN}Installing  LXC/LXD...${NC}"
         sudo usermod -aG lxd root
-        bash <(curl -fsSL https://raw.githubusercontent.com/nobita329/The-Coding-Hub/main/srv/External/lxc.sh)
+        bash <(curl -fsSL https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/External/lxc.sh)
         pause
         ;;
       5)
         clear
         echo -e "${CYAN}Installing  LXC/LXD...${NC}"
-        bash <(curl -fsSL https://raw.githubusercontent.com/nobita329/The-Coding-Hub/refs/heads/main/srv/External/doc.sh)
+        bash <(curl -fsSL https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/External/doc.sh)
         pause
         ;;
       6)
