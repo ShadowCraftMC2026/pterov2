@@ -43,7 +43,7 @@ infra_menu() {
       3)
         clear
         echo -e "${CYAN}Installing 1Panel...${NC}"
-        bash <(curl -fsSL https://raw.githubusercontent.com/nobita329/The-Coding-Hub/main/srv/External/1panel.sh)
+        bash <(curl -fsSL https://raw.githubusercontent.com/ShadowCraftMC2026/pterov2/refs/heads/main/srv/External/1panel.sh)
         pause
         ;;
       4)
