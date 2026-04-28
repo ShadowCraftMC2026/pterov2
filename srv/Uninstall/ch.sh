@@ -60,13 +60,13 @@ read -p "Select → " p
 
 case $p in
  1) curl -sSL https://get.featherpanel.com/beta.sh | bash ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unPterodactyl.sh) ;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/panel/Jexactyl.sh) ;;
- 4) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unJexactyl.sh) ;;
- 5) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unMythicalDash.sh) ;;
- 6) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/dash-v4) ;;
- 7) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unPaymenter.sh) ;;
- 8) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unCtrlPanel.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unPterodactyl.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/panel/Jexactyl.sh) ;;
+ 4) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unJexactyl.sh) ;;
+ 5) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unMythicalDash.sh) ;;
+ 6) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/dash-v4) ;;
+ 7) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unPaymenter.sh) ;;
+ 8) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unCtrlPanel.sh) ;;
  9) bash <(curl -s https://raw.githubusercontent.com/yourlink/cpanel.sh) ;;
  10) bash <(curl -s https://raw.githubusercontent.com/yourlink/t-panel.sh) ;;
  11) break;;
@@ -91,11 +91,11 @@ echo -e "${BLUE}─────────────────────�
 read -p "Select → " t
 
 case $t in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/root.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/Tailscale.sh) ;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/cf.sh) ;;
- 4) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/SYSTEM.sh) ;;
- 5) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/vps.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/root.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/Tailscale.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/cf.sh) ;;
+ 4) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/SYSTEM.sh) ;;
+ 5) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/vps.sh) ;;
  6) bash <(curl -s https://raw.githubusercontent.com/yourlink/portforward.sh) ;;
  7) bash <(curl -s https://raw.githubusercontent.com/yourlink/rdp.sh) ;;
  8) break;;
@@ -116,8 +116,8 @@ echo -e "${PURPLE}────────────────────�
 read -p "Select → " th
 
 case $th in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/thame/blueprint.sh) ;;
- 2) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/thame/chang.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/thame/blueprint.sh) ;;
+ 2) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/thame/chang.sh) ;;
  3) bash <(curl -s https://raw.githubusercontent.com/yourlink/theme_uninstall.sh) ;;
  4) break;;
  *) echo -e "${RED}Invalid${NC}"; pause;;
@@ -139,9 +139,9 @@ echo -e "${CYAN}─────────────────────�
 read -p "Select → " c
 
 case $c in
- 1) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/tools/vps.sh) ;;
+ 1) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/tools/vps.sh) ;;
  2) panel_menu;;
- 3) bash <(curl -s https://raw.githubusercontent.com/nobita54/-150/refs/heads/main/Uninstall/unwings.sh) ;;
+ 3) bash <(curl -s https://raw.githubusercontent.com/ShadowCraftMC2026/-150/refs/heads/main/Uninstall/unwings.sh) ;;
  4) tools_menu;;
  5) theme_menu;;
  6) echo -e "${GREEN}Exiting — SHADOWCODINGHUB by ShadowCraftMC${NC}"; exit;;
